@@ -1,3 +1,4 @@
+#Website structure changed!
 
 #Get the working directory
   working.directory<-file.path(path.expand("~"),"SLC_SoaringForecast")
