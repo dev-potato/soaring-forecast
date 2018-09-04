@@ -1,0 +1,92 @@
+UXUS97 KSLC 201256
+SRGSLC
+
+THIS SOARING FORECAST IS FOR MONDAY, JUNE 20, 2016:
+
+   HEIGHT OF THE -3 THERMAL INDEX............ 8373 FT MSL (4147 FT AGL)
+   MAXIMUM HEIGHT OF THERMALS................ 16169 FT MSL (11943 FT AGL)
+   FIRST USEABLE LIFT........................ 92.0 F/33.4 C
+   FORECAST MAXIMUM TEMPERATURE.............. 98.0 F/37.1 C
+   MAXIMUM RATE OF LIFT...................... 1098 FT/MIN (5.6 M/S)
+   THERMAL SOARING INDEX..................... EXCELLENT
+
+TIME OF TRIGGER TEMPERATURE.................. 1315 MDT
+TIME OF OVERDEVELOPMENT...................... NONE
+MIDDLE/HIGH CLOUDS DURING SOARING WINDOW..... NONE
+SURFACE WINDS DURING SOARING WINDOW.......... 20 MPH OR LESS
+THERMAL SOARING OUTLOOK TOMORROW............. EXCELLENT
+
+REMARKS... 
+SUNRISE/SUNSET.................... 05:56:42 / 21:02:17 MDT
+
+
+ * * UPPER AIR DATA FROM RAWINSONDE OBSERVATION TAKEN ON 06/20/2016 AT 0600 MDT * *
+
+FREEZING LEVEL.................. 16574 FT MSL (12348 FT AGL)
+CONVECTIVE CONDENSATION LEVEL... 21119 FT MSL (16893 FT AGL)
+LIFTED CONDENSATION LEVEL....... 19413 FT MSL (15187 FT AGL)
+LIFTED INDEX AT 18,000 FT MSL... +1.9
+K INDEX......................... +13.1
+
+Height  Temperature  Wind  Wind Spd  Lapse Rate  ConvectionT  Thermal  Lift Rate
+ft MSL  deg C deg F   Dir   kt  m/s  C/km F/kft  deg C deg F   Index    fpm  m/s
+--------------------------------------------------------------------------------
+  5000   22.6  72.7   130    8    4   1.5   0.8   25.8  78.4   -11.8    111  0.6
+  6000   23.4  74.1   120   14    7  -4.6  -2.5   29.4  84.9    -7.9    114  0.6
+  7000   23.0  73.4   125   11    6   4.1   2.2   31.8  89.3    -5.3    157  0.8
+  8000   21.8  71.2   145    8    4   5.2   2.9   33.6  92.4    -3.6    222  1.1
+  9000   20.1  68.2   205   13    7   5.5   3.0   34.9  94.7    -2.3    302  1.5
+ 10000   17.7  63.9   220   15    8   9.9   5.4   35.3  95.6    -1.8    406  2.1
+ 12000   11.2  52.2   250   17    9   9.5   5.2   35.5  95.8    -1.7    666  3.4
+ 14000    6.1  43.0   220   20   10   8.4   4.6   36.3  97.3    -0.9    879  4.5
+ 16000    1.1  34.0   225   27   14   7.5   4.1   37.2  98.9    -0.1   1087  5.5
+ 18000   -3.1  26.4   210   29   15   7.3   4.0   38.8 101.8     1.5      M    M
+ 20000   -7.1  19.2   240   28   14   5.6   3.1   40.8 105.4     3.4      M    M
+ 22000  -11.5  11.3   240   28   15   8.2   4.5   42.4 108.4     4.7      M    M
+ 24000  -16.2   2.8   245   40   20   7.8   4.3   43.9 111.1     5.7      M    M
+ 26000  -21.1  -6.0   245   39   20   9.5   5.2   45.1 113.2     6.5      M    M
+
+
+ * * * * * * NUMERICAL WEATHER PREDICTION MODEL FORECAST DATA VALID * * * * * * 
+
+           06/20/2016 at 1200 MDT          |       06/20/2016 at 1500 MDT        
+                                           |
+K INDEX... +16.3  LI... +2.0               | K INDEX... +19.9  LI... +0.9
+CAPE... 0.0  CIN... -7.0                   | CAPE... +38.7  CIN... -27.5
+                                           |
+Height Temperature  Wnd WndSpd  Lapse Rate | Temperature  Wnd WndSpd  Lapse Rate
+ft MSL deg C deg F  Dir kt m/s  C/km F/kft | deg C deg F  Dir kt m/s  C/km F/kft
+--------------------------------------------------------------------------------
+  5000  28.1  82.6  255   4  2   9.3   5.1 |  30.8  87.4  260   4  2   9.4   5.2
+  6000  25.5  77.9  225   4  2   8.4   4.6 |  27.9  82.2  250   4  2  10.3   5.7
+  7000  24.0  75.2  200   7  4   6.7   3.7 |  25.3  77.5  225   5  3   9.3   5.1
+  8000  22.1  71.8  200  10  5   7.8   4.3 |  22.8  73.0  215   7  4   8.7   4.8
+  9000  19.8  67.6  210  10  5   8.2   4.5 |  20.5  68.9  210  10  5   8.5   4.7
+ 10000  17.5  63.5  220   9  5   8.2   4.5 |  17.9  64.2  205  12  6   8.7   4.8
+ 12000  12.1  53.8  225  12  6   8.6   4.7 |  12.6  54.7  210  16  8   9.1   5.0
+ 14000   6.8  44.2  220  16  8   8.4   4.6 |   7.3  45.1  220  20 10   8.2   4.5
+ 16000   1.2  34.2  225  20 11   7.6   4.2 |   2.1  35.8  230  25 13   8.0   4.4
+ 18000  -3.1  26.4  235  26 13   7.0   3.8 |  -2.5  27.5  240  28 14   8.4   4.6
+ 20000  -7.1  19.2  245  31 16   7.3   4.0 |  -6.7  19.9  250  30 16   7.9   4.3
+ 22000 -11.3  11.7  245  36 18   7.1   3.9 | -11.4  11.5  250  32 17   8.0   4.4
+ 24000 -15.6   3.9  245  39 20   7.3   4.0 | -15.4   4.3  245  37 19   6.4   3.5
+ 26000 -20.0  -4.0  245  42 22   7.4   4.0 | -19.5  -3.1  240  41 21   7.4   4.1
+
+________________________________________________________________________________
+
+Click here for soaring definitions
+
+This product is issued once per day by approximately 0600 MST/0700 MDT 
+(1300 UTC). This product is not continuously monitored nor updated after
+the initial issuance. 
+
+The information contained herein is based on the 1200 UTC rawinsonde observation
+at the Salt Lake City, Utah International Airport and/or numerical weather 
+prediction model data representative of the airport. These data may not be
+representative of other areas along the Wasatch Front. Erroneous data such as
+these should not be used.
+
+The content and format of this report as well as the issuance times are subject
+to change without prior notice.  Comments and suggestions are welcome and should
+be directed to the following address:
+
